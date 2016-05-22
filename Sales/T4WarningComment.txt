@@ -1,0 +1,5 @@
+﻿/**************************************************
+Warning!
+This code is automatically created.
+If you change this file manually, you may lose the edited contents.
+**************************************************/
